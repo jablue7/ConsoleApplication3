@@ -11,6 +11,7 @@ int main()
     std::cout << "광렬이 바보\n";
     std::cout <<  "문오바보\n";
     std::cout << "광렬이 바보\n";
+    std::cout << "광렬이222 바보\n";
     return 0;
 }
 
